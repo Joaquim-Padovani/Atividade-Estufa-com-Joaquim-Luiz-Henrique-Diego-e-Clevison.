@@ -102,7 +102,11 @@ Utilização do Ciclo PDCA para Desenvolvimento de uma Estufa Agrícola Automati
 Link:https://d1wqtxts1xzle7.cloudfront.net/63151155/2019_capitulo_Estufa20200430-92939-z0vhob-libre.pdf?1588275753=&response-content-disposition=inline%3B+filename%3DCapitulo_8_Utilizacao_do_ciclo_PDCA_para.pdf&Expires=1744243485&Signature=UXLrm5XuD-aP-h09jteV6Kh8gEYWkRMOmLozPufqfpt2NoOoC2AwntUG3pcGgJoJu-bh1ovVYs1lK3Wz5G6R~Gl5BkPQD9SECy~3mAVqQJ-y4JGIzOYvLHLvwYuuSizkqFf-kw2J-DxUXY4NiaqKs0PGF9UknKNTXeJi5jV9j5bWWXcyrqX~Fo4pC-rUsfOIr~ulRbjZLowmiOpiUytN~GfLlcwuXYqC7tj58M~1UjG5QzF9u0movZCDFUr-~UVSmfXXe~uYh-TylIbQVcokkCSO2W-lyYuXT-9rTyGk99957AMrDxUaD1q4S6v~AdhUzu8~uNZqcL--~x4f8Ih9Kw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 Cadeia de produção, comercialização e logística de sementes, mudas e plantas ornamentais no Estado de São Paulo - Douglas Brand (2014) <br>
-Link: https://lume.ufrgs.br/handle/10183/268100
+Link: https://lume.ufrgs.br/handle/10183/268100 
+<br>
+Link para o Tinkercad: https://www.tinkercad.com/things/43vhzp1UEHJ/editel?returnTo=%2Fdashboard
+
+
 
  
 
